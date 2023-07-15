@@ -1,0 +1,66 @@
+  body{
+    font-family: 'Indie Flower', cursive;
+  }
+
+  .heading{
+    width: 70%;
+    height: 40px;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 23px;
+  }
+  .heading_div{
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    padding: 10px;
+  }
+
+  .heading_div2{
+    font-size: 18px ;
+  }
+  
+  .result_para_tag{
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+  .copy_right_footer{
+    position:fixed;
+    color: black;
+    bottom:0;
+    width: 100%;
+    line-height: 3;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Creepster', cursive;
+  }
+  canvas{
+    border:5px solid rgb(87, 153, 234);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px darkcyan;
+    margin-left: 200px;
+    margin-top: 145px;
+  }
+ 
+  .btn-info{
+    background-color: rgb(39, 167, 139);
+  }
+
+  .btn-info:hover{
+    background-color: rgb(109, 148, 254);
+  }
+
+  .btn-primary:hover{
+    background-color: darkcyan;
+  }
+
+  #colores{
+    margin-right: 350px;
+  }
